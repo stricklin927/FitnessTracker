@@ -13,7 +13,8 @@ The user can do the following:
 * Track the distance traveled of cardio exercise.
 
 ## App Demo
-[Click here to demo this app.](website goes here)
+[Click here to demo this app.](https://mysterious-caverns-32723.herokuapp.com/)
+[Click here to demo this app.](https://git.heroku.com/mysterious-caverns-32723.git)
 
 ### Fitness Tracker App
 ![App Demp](/assets/images/demo1.png)
