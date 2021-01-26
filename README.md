@@ -18,7 +18,9 @@ The user can do the following:
 
 
 ### Fitness Tracker App
-![App Demp](/assets/images/demo1.png)
+![Fitness Tracker](/assets/images/demo1.png)
+![Add Your Exercise](/assets/images/demo2.png)
+![Dashboard](/assets/images/demo3.png)
 
 ## Built with:
 * Node
