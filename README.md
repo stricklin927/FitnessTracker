@@ -22,6 +22,9 @@ The user can do the following:
 ![Add Your Exercise](/public/assets/images/demo2.png)
 ![Dashboard](/public/assets/images/demo3.png)
 
+## License
+* ![License badge](https://img.shields.io/badge/License-MIT-green)
+
 ## Built with:
 * Node
 * Express
